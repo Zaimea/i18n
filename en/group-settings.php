@@ -1,0 +1,56 @@
+<?php
+
+/*
+|--------------------------------------------------------------------------
+| Group Settings Language Lines / EN
+|--------------------------------------------------------------------------
+*/
+
+return [
+    '12_hours' => '12 hours',
+    '24_hours' => '24 hours',
+    'adress' => 'Adress',
+    'all' => 'All',
+    'are_you_sure_delete_this_group?' => 'Are you sure you want to delete this group? Once a group is deleted, all of its resources and data will be permanently deleted.',
+    'are_you_sure_transfer_group?' => 'Are you sure you want to transfer this group? Once a group is transferred, you will lose control of all of its resources and data.',
+    'cancel' => 'Cancel',
+    'city' => 'City',
+    'configs' => 'Configs',
+    'country' => 'Country',
+    'date_format' => 'Date Format',
+    'delete_group' => 'Delete Group',
+    'delete_group_content' => 'Once a group is deleted, all of its resources and data will be permanently deleted. Before deleting this group, please download any data or information regarding this group that you wish to retain.',
+    'delete_group_description' => 'Permanently delete this group.',
+    'description' => 'Description',
+    'duration' => 'Duration',
+    'email' => 'Email',
+    'first_day_of_week' => 'First Day Of Week',
+    'language' => 'Language',
+    'nevermind' => 'Nevermind',
+    'phone' => 'Phone',
+    'plugins' => 'Plugins',
+    'preview' => 'Preview',
+    'project_required' => 'Project Required',
+    'projects' => 'Projects',
+    'projects_and_tasks' => 'Projects and Tasks',
+    'record_type' => 'Record Type',
+    'save' => 'Save',
+    'saved' => 'Saved',
+    'start_and_finish' => 'Start and Finish',
+    'group_details' => 'Group Details',
+    'group_details_description' => 'Here you can update the group details.',
+    'group_name' => 'Group Name',
+    'group_name_description' => 'The group\'s name and owner information.',
+    'group_owner' => 'Group Owner',
+    'group_settings' => 'Group Settings',
+    'group_settings_description' => 'From here you can update the group settings.',
+    'group_transferred' => 'Group transferred, please refresh.',
+    'template_sign' => 'Template Sign',
+    'time' => 'Time',
+    'time_format' => 'Time Format',
+    'tracking_mode' => 'Tracking Mode',
+    'transfer_group' => 'Transfer Group',
+    'transfer_group_content' => 'Please provider the email address of the group you would like to transfer the group to. The email address must be associated with an existing account.',
+    'transfer_group_description' => 'Transfer group ownership to another group member.',
+    'zip' => 'Zip',
+];

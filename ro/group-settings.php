@@ -1,0 +1,56 @@
+<?php
+
+/*
+|--------------------------------------------------------------------------
+| Group Settings Language Lines / RO
+|--------------------------------------------------------------------------
+*/
+
+return [
+    '12_hours' => '12 ore',
+    '24_hours' => '24 ore',
+    'adress' => 'Adresa',
+    'all' => 'Toate',
+    'are_you_sure_delete_this_group?' => 'Sigur doriți să ștergeți această echipă? Odată ce o echipă este ștearsă, toate resursele și datele acesteia vor fi șterse definitiv.',
+    'are_you_sure_transfer_group?' => 'Ești sigur că vrei să transferi această echipă? Odată ce o echipă este transferată, veți pierde controlul asupra tuturor resurselor și datelor acesteia.',
+    'cancel' => 'Anuleaza',
+    'city' => 'Oraș',
+    'configs' => 'Configurații',
+    'country' => 'Tară',
+    'date_format' => 'Formatul datei',
+    'delete_group' => 'Ștergeți Echipa',
+    'delete_group_content' => 'Odată ce o echipă este ștearsă, toate resursele și datele acesteia vor fi șterse definitiv. Înainte de a șterge această echipă, vă rugăm să descărcați orice date sau informații despre această echipă pe care doriți să le păstrați.',
+    'delete_group_description' => 'Ștergeți definitiv această echipă.',
+    'description' => 'Descriere',
+    'duration' => 'Durata',
+    'email' => 'Email',
+    'first_day_of_week' => 'Prima zi a săptămânii',
+    'language' => 'Limba',
+    'nevermind' => 'Nu face nimic',
+    'phone' => 'Telefon',
+    'plugins' => 'Pluginuri',
+    'preview' => 'Previzualizare',
+    'project_required' => 'Proiect Obligatoriu',
+    'projects' => 'Proiecte',
+    'projects_and_tasks' => 'Proiecte și Atribuţii',
+    'record_type' => 'Tipul de înregistrare',
+    'save' => 'Salveaza',
+    'saved' => 'Salvat',
+    'start_and_finish' => 'Începup și Șfârsit',
+    'group_details' => 'Detalii Echipa',
+    'group_details_description' => 'Aici poti modifica detaliile echipei.',
+    'group_name' => 'Nume Echipa',
+    'group_name_description' => 'Numele echipei și informațiile proprietarului.',
+    'group_owner' => 'Proprietarul echipei',
+    'group_settings' => 'Setari Echipa',
+    'group_settings_description' => 'De aici puteți actualiza setările echipei.',
+    'group_transferred' => 'Echipa a fost transferată, vă rugăm să actualizați.',
+    'template_sign' => 'Template Sign',
+    'time' => 'Timp',
+    'time_format' => 'Formatul timpului',
+    'tracking_mode' => 'Modul de înregistrare',
+    'transfer_group' => 'Transfera Echipa',
+    'transfer_group_content' => 'Vă rugăm să furnizați adresa de e-mail a membrului la care doriți să transferați echipa. Adresa de e-mail trebuie să fie asociată unui cont existent.',
+    'transfer_group_description' => 'Transferați proprietatea echipei unui alt membru al echipei.',
+    'zip' => 'Cod Postal',
+];

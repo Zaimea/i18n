@@ -1,0 +1,1 @@
+# ZAIMEA i18n
