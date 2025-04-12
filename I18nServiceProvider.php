@@ -25,6 +25,7 @@ class I18nServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
-        $this->loadTranslationsFrom(__DIR__, '@zaimea');
+        // Translations for Zaimea Groups
+        $this->loadTranslationsFrom(__DIR__.'/Groups', '@i18n-groups');
     }
 }

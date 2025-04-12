@@ -1,1 +1,1 @@
-# ZAIMEA i18n
+# Zaimea i18n
