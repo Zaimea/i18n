@@ -19,4 +19,5 @@ return [
     'purple' => 'Purple',
     'rose' => 'Rose',
     'stone' => 'Stone',
+    'slate' => 'Slate',
 ];
