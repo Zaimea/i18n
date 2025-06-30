@@ -24,5 +24,6 @@ return [
     'valid_cron' => 'The :attribute must be a valid cron. More information in the attached link: https://en.wikipedia.org/wiki/Cron',
     'valid_language' => 'Select an available :attribute from the given list.',
     'valid_role' => 'The :attribute must be a valid role.',
+    'work_duration' => 'Overtime is not allowed.',
     'wrong_permission' => 'Wrong permission selected.',
 ];

@@ -24,5 +24,6 @@ return [
     'valid_cron' => ':attribute trebuie să fie un cron valid. Mai multe informații în linkul atașat: https://en.wikipedia.org/wiki/Cron',
     'valid_language' => 'Selectați un :attribute disponibil din lista dată.',
     'valid_role' => ':attribute trebuie să fie un rol valid.',
+    'work_duration' => 'Orele suplimentare nu sunt permise.',
     'wrong_permission' => 'Permisiunea selectată este greșită.',
 ];
