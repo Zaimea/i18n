@@ -10,6 +10,7 @@ return [
     'records' => 'Records',
     'charts' => 'Charts',
     'clients' => 'Clients',
+    'colors' => 'Colors',
     'holidays' => 'Holidays',
     'lockings' => 'Lockings',
     'medicals' => 'Medicals',

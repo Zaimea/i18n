@@ -10,6 +10,7 @@ return [
     'records' => 'Inregistrari',
     'charts' => 'Grafice',
     'clients' => 'Clienti',
+    'colors' => 'Culori',
     'holidays' => 'Sarbatori',
     'lockings' => 'Blocari',
     'medicals' => 'Medicale',
