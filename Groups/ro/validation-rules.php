@@ -9,6 +9,8 @@
 return [
     'record_valid_end' => 'Valoarea orei de început trebuie să fie mai mare decât ora de încheiere',
     'calendar_template' => 'În loc de :sign trebuie să completați',
+    'color_name' => 'Numele culorii este invalid, alegeți una existentă din lista de mai jos.',
+    'color_value' => 'Valoarea culorii este invalidă, fiecare culoare din paleta implicită include 11 trepte, 50 fiind cea mai deschisă, iar 950 cea mai închisă..',
     'client_required' => 'Când câmpul Client este obligatoriu, trebuie să activați Pluginul Client.',
     'date_format' => ':attribute trebuie să aibă formatul dat.',
     'is_client' => 'Rolul trebuie să conțină cuvântul „client”.',

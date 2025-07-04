@@ -2,7 +2,7 @@
 
 /*
 |--------------------------------------------------------------------------
-| Calendar Language Lines / EN
+| Colors Language Lines / EN
 |--------------------------------------------------------------------------
 */
 
@@ -29,11 +29,4 @@ return [
     'zinc' => 'Zinc',
     'neutral' => 'Neutral',
     'stone' => 'Stone',
-    'group_colors' => 'Group Colors',
-    'create_color' => 'Create Color',
-    'create_color_description' => 'Every color in the default palette includes 11 steps, with 50 being the lightest, and 950 being the darkest:',
-    'name' => 'Name',
-    'code' => 'Code',
-    'create' => 'Create',
-    'manage_color_description' => 'Here you can see and modify or delete existing colors.',
 ];

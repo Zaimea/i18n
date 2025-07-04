@@ -9,6 +9,8 @@
 return [
     'record_valid_end' => 'Start time value must be greater than End time',
     'calendar_template' => 'Instead of :sign you must fill in',
+    'color_name' => 'The color name is invalid, choose an existing one from the list below.',
+    'color_value' => 'The color value is invalid, every color in the default palette includes 11 steps, with 50 being the lightest, and 950 being the darkest.',
     'client_required' => 'When Client field is required you have to enable Client Plugin.',
     'date_format' => 'The :attribute must in the given format.',
     'is_client' => 'The Role must contain the word "client".',
