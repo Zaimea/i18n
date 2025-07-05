@@ -7,6 +7,6 @@
 */
 
 return [
-    'general_settings' => 'General Settings',
-    'nothing_yet' => 'general settings settings-manager.blade.php',
+    'general_settings' => 'Allgemeine Einstellungen',
+    'nothing_yet' => 'Allgemeine Einstellungen settings-manager.blade.php',
 ];
