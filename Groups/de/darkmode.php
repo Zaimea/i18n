@@ -7,7 +7,7 @@
 */
 
 return [
-    'dark' => 'Dark',
-    'light' => 'Light',
+    'dark' => 'Dunkel',
+    'light' => 'Hell',
     'system' => 'System',
 ];
