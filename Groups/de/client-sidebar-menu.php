@@ -7,5 +7,5 @@
 */
 
 return [
-    'clientboard' => 'Clientboard',
+    'clientboard' => 'Kundenboard',
 ];
