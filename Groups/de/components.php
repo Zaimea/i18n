@@ -7,14 +7,14 @@
 */
 
 return [
-    'cancel' => 'Cancel',
-    'confirm' => 'Confirm',
-    'confirm_password' => 'Confirm Password',
-    'deselect_all' => 'Deselect All',
-    'for_your_security' => 'For your security, please confirm your password to continue.',
+    'cancel' => 'Abbrechnen',
+    'confirm' => 'Bestätigen',
+    'confirm_password' => 'Confirm bestätigen',
+    'deselect_all' => 'Alle abwählen',
+    'for_your_security' => 'Zu Ihrer Sicherheit bestätigen Sie bitte Ihr Password, um fortzufahren.',
     'password' => 'Password',
-    'saved' => 'Saved',
-    'select_all' => 'Select All',
-    'select_your_option' => 'Select your option',
-    'whoops_something_went_wrong' => 'Whoops! Something went wrong.',
+    'saved' => 'Gespeichert',
+    'select_all' => 'Alle auswählen',
+    'select_your_option' => 'Option auswählen',
+    'whoops_something_went_wrong' => 'Hoppa! Etwas ist schiefgelaufen.',
 ];
