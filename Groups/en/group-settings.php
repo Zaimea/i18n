@@ -45,6 +45,7 @@ return [
     'group_settings' => 'Group Settings',
     'group_settings_description' => 'From here you can update the group settings.',
     'group_transferred' => 'Group transferred, please refresh.',
+    'task_required' => 'Task Required',
     'template_sign' => 'Template Sign',
     'time' => 'Time',
     'time_format' => 'Time Format',

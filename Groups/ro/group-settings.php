@@ -45,6 +45,7 @@ return [
     'group_settings' => 'Setari Echipa',
     'group_settings_description' => 'De aici puteți actualiza setările echipei.',
     'group_transferred' => 'Echipa a fost transferată, vă rugăm să actualizați.',
+    'task_required' => 'Task Required',
     'template_sign' => 'Template Sign',
     'time' => 'Timp',
     'time_format' => 'Formatul timpului',
