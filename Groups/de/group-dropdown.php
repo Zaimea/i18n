@@ -7,8 +7,8 @@
 */
 
 return [
-    'create_new_group' => 'Create New Group',
-    'manage_group' => 'Manage Group',
-    'switch_groups' => 'Switch Groups',
-    'group_panel' => 'Group Panel',
+    'create_new_group' => 'Neue Gruppe erstellen',
+    'manage_group' => 'Gruppe verwalten',
+    'switch_groups' => 'Gruppen wechseln',
+    'group_panel' => 'Gruppenbereich',
 ];
