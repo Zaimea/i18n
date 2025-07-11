@@ -9,10 +9,10 @@
 return [
     'cancel' => 'Abbrechnen',
     'confirm' => 'Bestätigen',
-    'confirm_password' => 'Confirm bestätigen',
+    'confirm_password' => 'Passwort bestätigen',
     'deselect_all' => 'Alle abwählen',
     'for_your_security' => 'Zu Ihrer Sicherheit bestätigen Sie bitte Ihr Password, um fortzufahren.',
-    'password' => 'Password',
+    'password' => 'Passwort',
     'saved' => 'Gespeichert',
     'select_all' => 'Alle auswählen',
     'select_your_option' => 'Option auswählen',
