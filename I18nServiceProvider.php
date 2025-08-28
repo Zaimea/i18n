@@ -33,5 +33,7 @@ class I18nServiceProvider extends ServiceProvider
         $this->loadTranslationsFrom(__DIR__.'/Gateway', '@i18n-gateway');
         // Translations for Zaimea Docs
         $this->loadTranslationsFrom(__DIR__.'/Docs', '@i18n-docs');
+        // Translations for Zaimea Website
+        $this->loadTranslationsFrom(__DIR__.'/Zaimea', '@i18n-zaimea');
     }
 }
