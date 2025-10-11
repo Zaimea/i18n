@@ -7,10 +7,10 @@
 */
 
 return [
-    'create' => 'Create',
-    'create_group' => 'Create Group',
-    'group_details' => 'Group Details',
-    'group_details_description' => 'Create a new group to collaborate with others on projects.',
-    'group_name' => 'Group Name',
-    'group_owner' => 'Group Owner',
+    'create' => 'Erstellen',
+    'create_group' => 'Gruppe erstellen',
+    'group_details' => 'Gruppedetails',
+    'group_details_description' => 'Neue Gruppe erstellen, um mit anderen an Projekten zusammenzuarbeiten.',
+    'group_name' => 'Gruppename',
+    'group_owner' => 'Gruppehalter',
 ];
