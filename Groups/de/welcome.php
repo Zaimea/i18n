@@ -7,8 +7,8 @@
 */
 
 return [
-    'calendar' => 'Calendar',
-    'create_new_group' => 'Create New Group',
-    'log_in' => 'Log In',
-    'register' => 'Register',
+    'calendar' => 'Kalender',
+    'create_new_group' => 'Neue Gruppe erstellen',
+    'log_in' => 'Anmelden',
+    'register' => 'Registrieren',
 ];
