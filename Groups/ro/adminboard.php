@@ -23,7 +23,7 @@ return [
     'server_release' => 'Lansare Server',
     'server_version' => 'Versiune Server',
     'tickets' => 'Tichete',
-    'total_users' => 'Total Users',
+    'total_users' => 'Total Utilizatori',
     'users' => 'Utilizatori',
     'zend_version' => 'Versiune Zend',
 ];
