@@ -8,9 +8,9 @@
 
 return [
     'adminboard' => 'Adminboard',
-    'calendar' => 'Calendar',
-    'clientboard' => 'Clientboard',
-    'create_new_group' => 'Create New Group',
+    'calendar' => 'Kalender',
+    'clientboard' => 'Kundeboard',
+    'create_new_group' => 'Neue Gruppe erstellen',
     'dashboard' => 'Dashboard',
-    'userboard' => 'Userboard',
+    'userboard' => 'Benutzerboard',
 ];
