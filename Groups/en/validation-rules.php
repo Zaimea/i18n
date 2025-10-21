@@ -26,6 +26,7 @@ return [
     'time_format' => 'The :attribute must in the given format.',
     'uncompleted_entry' => 'The :attribute field is required.',
     'uncompleted_entry_exists' => 'The :attribute is required because uncompleted entry already exists. Close or delete it. Go to uncompleted entry.',
+    'valid_color' => 'The :attribute field must be a valid Color.',
     'valid_cron' => 'The :attribute must be a valid cron. More information in the attached link: https://en.wikipedia.org/wiki/Cron',
     'valid_language' => 'Select an available :attribute from the given list.',
     'valid_role' => 'The :attribute must be a valid role.',

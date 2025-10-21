@@ -26,6 +26,7 @@ return [
     'time_format' => ':attribute trebuie să aibă formatul dat.',
     'uncompleted_entry' => 'Câmpul :attribute este obligatoriu.',
     'uncompleted_entry_exists' => ':attribute este necesar deoarece o intrare necompletată există deja. Închideți-l sau ștergeți-l. Accesați intrarea nefinalizată.',
+    'valid_color' => 'Câmpul :attribute trebuie să fie o culoare validă.',
     'valid_cron' => ':attribute trebuie să fie un cron valid. Mai multe informații în linkul atașat: https://en.wikipedia.org/wiki/Cron',
     'valid_language' => 'Selectați un :attribute disponibil din lista dată.',
     'valid_role' => ':attribute trebuie să fie un rol valid.',

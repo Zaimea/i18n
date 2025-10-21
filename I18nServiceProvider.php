@@ -29,8 +29,8 @@ class I18nServiceProvider extends ServiceProvider
         $this->loadTranslationsFrom(__DIR__.'/Global', '@i18n-global');
         // Translations for Zaimea Groups
         $this->loadTranslationsFrom(__DIR__.'/Groups', '@i18n-groups');
-        // Translations for Zaimea Gateway-1s100
-        $this->loadTranslationsFrom(__DIR__.'/Gateway', '@i18n-gateway');
+        // Translations for Zaimea Accounts-1s100
+        $this->loadTranslationsFrom(__DIR__.'/Accounts', '@i18n-accounts');
         // Translations for Zaimea Docs
         $this->loadTranslationsFrom(__DIR__.'/Docs', '@i18n-docs');
         // Translations for Zaimea Website
