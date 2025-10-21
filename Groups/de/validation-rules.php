@@ -7,33 +7,6 @@
 */
 
 return [
-<<<<<<< HEAD
-    'record_valid_end' => 'Start time value must be greater than End time',
-    'calendar_template' => 'Instead of :sign you must fill in',
-    'color_name' => 'The color name is invalid, choose an existing one from the list below.',
-    'color_value' => 'The color value is invalid, every color in the default palette includes 11 steps, with 50 being the lightest, and 950 being the darkest.',
-    'client_required' => 'When Client field is required you have to enable Client Plugin.',
-    'client_needs_projects' => 'When Client Plugin are enabled you have to enable also Projects Plugin.',
-    'date_format' => 'The :attribute must in the given format.',
-    'is_client' => 'The Role must contain the word "client".',
-    'is_not_client' => 'The name of the role must not contain the word "client".',
-    'mq_hours' => 'The :attribute must in Hours:minutes format.',
-    'night_shift' => 'Start At value must be greater than End At',
-    'project_required' => 'When Project field is required your tracking mode need to be set for "Projects" or "Projects and Tasks".',
-    'project_required_needs_plugin' => 'When Project field is required you have to enable also Projects Plugin.',
-    'task_required' => 'When Task field is required your tracking mode need to be set for "Projects and Tasks".',
-    'task_required_needs_plugin' => 'When Task field is required you have to enable also Tasks Plugin.',
-    'templates_enabled' => 'When Templates are enabled your tracking mode need to be set for "Projects" or "Projects and Tasks".',
-    'time_format' => 'The :attribute must in the given format.',
-    'uncompleted_entry' => 'The :attribute field is required.',
-    'uncompleted_entry_exists' => 'The :attribute is required because uncompleted entry already exists. Close or delete it. Go to uncompleted entry.',
-    'valid_color' => 'The :attribute field must be a valid Color.',
-    'valid_cron' => 'The :attribute must be a valid cron. More information in the attached link: https://en.wikipedia.org/wiki/Cron',
-    'valid_language' => 'Select an available :attribute from the given list.',
-    'valid_role' => 'The :attribute must be a valid role.',
-    'work_duration' => 'Overtime is not allowed.',
-    'wrong_permission' => 'Wrong permission selected.',
-=======
     'record_valid_end' => 'Beginnzeit muss größer als Endzeit sein.',
     'calendar_template' => 'Anstelle von :sign müssen Sie Folgendes eingeben',
     'color_name' => 'Der Farbname ist ungültig. Wählen Sie einen vorhandenen aus der Liste unten.',
@@ -58,5 +31,4 @@ return [
     'valid_role' => 'Das :attribute muss eine gültige Rolle sein.',
     'work_duration' => 'Überstunden sind nicht zulässig.',
     'wrong_permission' => 'Falshe Berechtigung ausgewählt.',
->>>>>>> bd4baeaa62714783ccdac6f9fd31170a3fbe0b6f
 ];
